@@ -1,0 +1,7 @@
+yfinance
+gspread
+oauth2client
+pandas
+numpy
+scikit-learn
+python-telegram-bot

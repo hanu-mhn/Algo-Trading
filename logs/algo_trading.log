@@ -1,0 +1,13 @@
+2025-06-24 18:56:30,728 INFO data_ingestion: Fetching data for RELIANCE.NS from 2024-12-26 to 2025-06-24
+2025-06-24 18:56:41,817 INFO data_ingestion: Fetched 122 rows for RELIANCE.NS
+2025-06-24 18:56:41,818 INFO data_ingestion: Fetching data for TCS.NS from 2024-12-26 to 2025-06-24
+2025-06-24 18:56:42,521 INFO data_ingestion: Fetched 122 rows for TCS.NS
+2025-06-24 18:56:42,521 INFO data_ingestion: Fetching data for INFY.NS from 2024-12-26 to 2025-06-24
+2025-06-24 18:56:43,572 INFO data_ingestion: Fetched 122 rows for INFY.NS
+2025-06-24 18:56:43,572 INFO strategy: Backtesting RELIANCE.NS
+2025-06-24 18:56:43,790 INFO strategy: 0 buy signals for RELIANCE.NS
+2025-06-24 18:56:43,791 INFO strategy: Backtesting TCS.NS
+2025-06-24 18:56:44,011 INFO strategy: 0 buy signals for TCS.NS
+2025-06-24 18:56:44,011 INFO strategy: Backtesting INFY.NS
+2025-06-24 18:56:44,250 INFO strategy: 0 buy signals for INFY.NS
+2025-06-24 18:56:47,776 INFO telegram_alerts: Sent Telegram alert.
